@@ -7,3 +7,11 @@
 *Arrays
 *Structures
 *Conditional statements(if,else,elseif,switch)
+
+# This project allows you to 
+-Create account
+-Delete account
+-Depositing money
+-Withdrawing money
+-Quiting from bank
+

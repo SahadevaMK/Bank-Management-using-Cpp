@@ -3,6 +3,7 @@
 #include<cstdlib>
 #include<vector>
 #include<map>
+//Starting point of the project
 using namespace std;
 #define MIN_BALANCE 500
 class InsufficientFunds{};
